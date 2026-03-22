@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="35" style="vertical-align: middle;"> Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-froj%C3%A1n-155519376/" target="_blank">
+  <a href="https://linkedin.com/in/dariiolopeez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lopezfrojandario@gmail.com">
