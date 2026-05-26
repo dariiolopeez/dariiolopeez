@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00AEEF&pause=1500&duration=4000&size=26&lines=Welcome+to+my+profile!;AI+%26+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00AEEF&pause=1500&duration=4000&size=26&lines=Welcome+to+my+profile!;AI+%26+CE+Student)](https://git.io/typing-svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35"> About Me
 * 😄 My full name is **Darío López Froján**
-* 🌱 I'm currently studying **Artificial Intelligence & Computer Science** at the **University of Vigo**.
+* 🌱 I'm currently studying **Artificial Intelligence & Computer Engineering** at the **University of Vigo**.
 * 🔭 I’m currently working on **software development** at **Auria Technologies**, an AI Formula Student Team.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"> My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarioLopezFrojan&show_icons=true&theme=dark&icon_color=0077B5&title_color=00AEEF&count_private=true" alt="GitHub Stats" />
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
 <p align="left">
