@@ -1,43 +1,61 @@
+<div align="center">
+  <img src="https://github.com/dariiolopeez/gifs_for_readme/blob/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" width="510" alt="Welcome Banner" />
+</div>
 
+<br/>
 
-<!--
-**DarioLopezFrojan/DarioLopezFrojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Yo!</h1>
+  <h4>I'm a second-year Computer Science & Artificial Intelligence double degree student.</h4>
+  <h4>I'm passionate about cybersecurity.</h4>
+  <h4>I'm a Software Team Member at Auria Technologies (Formula Student Team).</h4>
+  <br/>
+  <h4>You can contact me at:</h4>
+  <h4>dariolopezbusiness@hotmail.com</h4>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github.com/dariiolopeez/gifs_for_readme/blob/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff-2.gif" width="455" alt="Mid Banner" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00AEEF&pause=1500&duration=4000&size=26&lines=Welcome+to+my+profile!;AI+%26+CE+Student)](https://git.io/typing-svg)
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35"> About Me
-* 😄 My full name is **Darío López Froján**
-* 🌱 I'm currently studying **Artificial Intelligence & Computer Engineering** at the **University of Vigo**.
-* 🔭 I’m currently working on **software development** at **Auria Technologies**, an AI Formula Student Team.
+<h2 align="center">🛠️ Tech & Tools that I Use</h2>
 
+<h3 align="center">Programming Languages</h3>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" title="C++" alt="C++" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" title="JavaScript" alt="JavaScript" />
 </p>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="35" style="vertical-align: middle;"> Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/dariiolopeez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lopezfrojandario@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<h3 align="center">IDEs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Antigravity_IDE-202124?style=flat-square&logo=codeium&logoColor=white" title="Antigravity IDE" alt="Antigravity IDE" />
 </p>
+
+<h3 align="center">OS and WM</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat-square" title="Linux Mint" alt="Linux Mint" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" title="Ubuntu" alt="Ubuntu" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" title="Arch Linux" alt="Arch Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat-square" title="macOS" alt="macOS" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/dariiolopeez/gifs_for_readme/blob/main/pixel%20art%20GIF-2.gif" width="450" alt="End Banner" />
+</div>
