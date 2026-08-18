@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" title="Arch Linux" alt="Arch Linux" />
   &nbsp;
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat-square" title="macOS" alt="macOS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hyprland-9eef86?logo=hyprland&logoColor=000&style=flat-square" title="Hyprland" alt="Hyprland" />
 </p>
 
 <br/>
