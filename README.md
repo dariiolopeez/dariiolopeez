@@ -2,7 +2,7 @@
 
 # `About me:`
 
-I'm a second-year Computer Science & Artificial Intelligence double degree student and the **Software Lead at [`Auria Technologies`](https://auria.gal)** (Formula Student Driverless).
+I'm a Computer Science & Artificial Intelligence double degree student and the **Software Lead at [`Auria Technologies`](https://auria.gal)** (Formula Student Driverless).
 - 🏎️ Leading software architecture, middleware & real-time systems
 - 🛡️ Passionate about **cybersecurity & AI-driven autonomous driving**
 - ⚡ Focused on low-level performance and track-ready algorithms
@@ -12,7 +12,7 @@ I'm a second-year Computer Science & Artificial Intelligence double degree stude
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,linux,docker,git,vscode,pytorch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,linux,docker,git,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
